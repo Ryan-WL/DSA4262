@@ -20,3 +20,9 @@ License and usage follow Kaggle’s terms.
 1. Download the files directly in Assignment 1 separately, but ensure all the files are downloaded into the same folder to ensure smooth running of Jupyter file
 2. Run `Assignment 1.ipynb`
 
+
+## Assignment 2: Predictive modelling
+
+### How to run
+1. Download the "Assignment 2" jupyter file
+2. 2. Run `Assignment 2.ipynb`
